@@ -1,0 +1,9 @@
+{
+	"id": "quick-search-plugin",
+	"name": "Quick Search",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A fast, minimalist, and smart search modal. Features custom folder shortcuts (/shortcut), heading search (#), and smart property previews.",
+	"author": "TaeRocha",
+	"isDesktopOnly": false
+}
